@@ -14,6 +14,6 @@
 - :mag: 技術調査
   - Railsの実行環境としてAzureの調査
 
-経歴やご依頼については、下記ホームページをご覧ください。
+ご依頼については、下記ホームページをご覧ください。
 
-- [Satoryu's Website](https://www.satoryu.com/)
+- [仕事の依頼について - Satoryu’s Website](https://www.satoryu.com/business/)
